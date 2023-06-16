@@ -5,7 +5,6 @@
 - 👨🏾‍🎓 I am in the 4rd period of computer engineering at the Federal Rural University of Pernambuco (UFRPE)
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Kotlin, SQLite
 
-<br>
 <hr>
 
 <a href="https://github.com/Wuel1">
