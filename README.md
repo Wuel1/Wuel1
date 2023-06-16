@@ -3,16 +3,13 @@
 - 👋 My name is Wandson Emanuel, but you can call me just Wandson or Wuel :)
 - 🇧🇷 I'm Brazilian and I live in the state of Pernambuco
 - 👨🏾‍🎓 I am in the 4rd period of computer engineering at the Federal Rural University of Pernambuco (UFRPE)
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript.
-- 📫 How to reach me: wandson7emanuel@hotmail.com
-- 😄 Pronouns: him/his
-- ⚡ Fun fact: I am very hardworking and I try to improve myself every day
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Kotlin, SQLite
 
 <br>
 
 <a href="https://github.com/Wuel1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wuel1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuel1&layout=compact&langs_count=7&theme=dark"/>
+<img width="180em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Wuel1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img  width="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuel1&layout=compact&langs_count=7&theme=dark"/>
 
 <br>
 
