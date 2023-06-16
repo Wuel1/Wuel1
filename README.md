@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Kotlin, SQLite
 
 <br>
+<hr>
 
 <a href="https://github.com/Wuel1">
 <div align="center">
