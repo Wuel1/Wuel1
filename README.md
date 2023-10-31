@@ -1,9 +1,4 @@
-## | Hello dear curious 🧐 | I'm Wandson, what do you need? |
-
-- 👋 My name is Wandson Emanuel, but you can call me just Wandson or Wuel :)
-- 🇧🇷 I'm Brazilian and I live in the state of Pernambuco
-- 👨🏾‍🎓 I am in the 4rd period of computer engineering at the Federal Rural University of Pernambuco (UFRPE)
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Kotlin, SQLite
+## | Hello dear curious 🧐 | I'm Wandson, what do you need? | 👨🏾‍🎓 Computer Engineering 5rd period (UFRPE)
 
 <hr>
 
