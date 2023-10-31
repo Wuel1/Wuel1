@@ -1,4 +1,6 @@
-## | Hello dear curious 🧐 | I'm Wandson, 👨🏾‍🎓 Computer Engineering  studente at 5rd period (UFRPE)
+## | Hello dear curious 🧐 | I'm Wandson, what do you need ?
+
+<strong> 👨🏾‍🎓 Computer Engineering  studente at 5rd period (UFRPE) </strong>
 
 <hr>
 
