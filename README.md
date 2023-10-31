@@ -1,4 +1,4 @@
-## <h1 align="center"| Hello dear curious 🧐 | I'm Wandson, what do you need ? </h1>
+## <h1 align="center">| Hello dear curious 🧐 | I'm Wandson, what do you need ? </h1>
 
 <strong> 👨🏾‍🎓 Computer Engineering  studente at 5rd period (UFRPE) </strong>
 
