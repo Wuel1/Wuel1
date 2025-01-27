@@ -1,20 +1,54 @@
-## <h1 align="center">| Hello dear curious 🧐 | I'm Wandson, what do you need ? </h1>
+<h1 align="center">👋 Olá, eu sou Wandson! Bem-vindo ao meu GitHub! </h1>
 
-<strong> 👨🏾‍🎓 Computer Engineering  studente at 5rd period (UFRPE) </strong>
+<strong>🎓 Estudante de Engenharia da Computação - 7º período na UFRPE</strong>  
+<strong>💻 Apaixonado por desenvolvimento, tecnologia e aprender algo novo todos os dias!</strong>
 
 <hr>
 
-<a href="https://github.com/Wuel1">
+<h2 align="center">📊 Minhas Estatísticas</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wuel1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuel1&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuel1&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <hr>
+
+<h2 align="center">🌐 Onde me encontrar</h2>
 <div align="center"> 
-  <a href="https://www.instagram.com/wecodevs" target="_blank" rel="external>"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external>"</a>
-  <a href = "mailto:wandson7emanuel@hotmail.com" rel="external>" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external>"></a>
-  <a href="https://www.linkedin.com/in/wandson-emanuel-1b8b771a0/" target="_blank" rel="external>"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external>"></a>  
+  <a href="https://www.instagram.com/wecodevs" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:wandson7emanuel@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/wandson-emanuel-1b8b771a0/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
 </div>
+
+<hr>
+
+<h2 align="center">🧑🏾‍💻 Sobre mim</h2>
+<p align="center">
+  🔹 Sou um entusiasta de <strong>desenvolvimento de software</strong> e apaixonado por resolver problemas.<br>
+  🔹 Tenho interesse em <strong>desenvolvimento web</strong>, <strong>programação competitiva</strong>, e explorar novas tecnologias.<br>
+  🔹 Atualmente, estou me aprofundando em <strong>C#</strong>, <strong>.NET</strong>, e frameworks modernos.
+</p>
+
+<hr>
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+<ul>
+  <li><a href="https://github.com/Wuel1/Projeto1">📂 Nome do Projeto 1</a>: Breve descrição</li>
+  <li><a href="https://github.com/Wuel1/Projeto2">📂 Nome do Projeto 2</a>: Breve descrição</li>
+</ul>
+
+<h2 align="center">📅 Objetivos Futuros</h2>
+<ul>
+  <li>💡 Aprofundar conhecimento em <strong>C# e .NET</strong></li>
+  <li>🌐 Contribuir para projetos open-source</li>
+</ul>
+
 <div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=wuel1&label=Profile%20views&color=0e75b6&style=flat" alt="wuel1" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=wuel1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="wuel1" />
 </div>
