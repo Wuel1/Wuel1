@@ -39,8 +39,7 @@
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 <ul>
-  <li><a href="https://github.com/Wuel1/Projeto1">📂 Nome do Projeto 1</a>: Breve descrição</li>
-  <li><a href="https://github.com/Wuel1/Projeto2">📂 Nome do Projeto 2</a>: Breve descrição</li>
+  <li><a href="https://github.com/Wuel1/C-and-.Net/tree/main/crudAngularEWebApi">📂 CRUD API</a>: Este projeto é um CRUD para gestão de pessoas, permitindo criar, visualizar, editar e excluir registros com nome, sobrenome e idade. Desenvolvido com C#, .NET, Entity Framework, SQL Server, Angular e Bootstrap, possui uma API backend documentada com Swagger e uma interface frontend responsiva.</li>
 </ul>
 
 <h2 align="center">📅 Objetivos Futuros</h2>
