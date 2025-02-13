@@ -45,6 +45,8 @@
 <h2 align="center">📅 Objetivos Futuros</h2>
 <ul>
   <li>💡 Aprofundar conhecimento em <strong>C# e .NET</strong></li>
+  <li>💡 Aprofundar conhecimento em <strong>JavascriptT</strong></li>
+  <li>💡 Aprofundar conhecimento em <strong>React e React Native</strong></li>
   <li>🌐 Contribuir para projetos open-source</li>
 </ul>
 
