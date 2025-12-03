@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Wandson! Bem-vindo ao meu GitHub! </h1>
 
-<strong>🎓 Estudante de Engenharia da Computação - 8º período na UFRPE</strong>  
+<strong>🎓 Estudante de Engenharia da Computação - 9º período na UFRPE</strong>  
 <strong>💻 Apaixonado por desenvolvimento, tecnologia e aprender algo novo todos os dias!</strong>
 
 <hr>
@@ -31,8 +31,8 @@
 <h2 align="center">🧑🏾‍💻 Sobre mim</h2>
 <p align="center">
   🔹 Sou um entusiasta de <strong>desenvolvimento de software</strong> e apaixonado por resolver problemas.<br>
-  🔹 Tenho interesse em <strong>desenvolvimento web</strong>, <strong>programação competitiva</strong>, e explorar novas tecnologias.<br>
-  🔹 Atualmente, estou me aprofundando em <strong>C#</strong>, <strong>.NET</strong>, e frameworks modernos.
+  🔹 Tenho interesse em <strong>desenvolvimento fullstack</strong>, e constumo explorar novas tecnologias. Mas tenho como fomo principal React, Python, Javascript <br>
+  <!-- 🔹 Atualmente, estou me aprofundando em <strong>C#</strong>, <strong>.NET</strong>, e frameworks modernos. -->
 </p>
 
 <hr>
