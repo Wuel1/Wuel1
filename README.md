@@ -7,7 +7,7 @@
 
 <h2 align="center">💻 Portfólio </h2>
 <div align="center">
-  <p href="https://wandsonemanuel.com.br/"> Clique aqui 😉 </p>
+  <a href="https://wandsonemanuel.com.br/" target="_blank"> Clique aqui 😉 </p>
 </div>
 
 <hr>
