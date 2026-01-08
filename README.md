@@ -5,10 +5,9 @@
 
 <hr>
 
-<h2 align="center">📊 Minhas Estatísticas</h2>
+<h2 align="center">💻 Portfólio </h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wuel1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuel1&layout=compact&langs_count=7&theme=dark"/>
+  <p href="https://wandsonemanuel.com.br/"> Clique aqui 😉 </p>
 </div>
 
 <hr>
