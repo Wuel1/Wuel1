@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Wandson! Bem-vindo ao meu GitHub! </h1>
 
-<strong>🎓 Estudante de Engenharia da Computação - 9º período na UFRPE</strong>  
+<strong>🎓 Estudante de Engenharia da Computação - 10º período na UFRPE</strong>  
 <strong>💻 Apaixonado por desenvolvimento, tecnologia e aprender algo novo todos os dias!</strong>
 
 <hr>
