@@ -38,17 +38,17 @@
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 <ul>
-  <li><a href="https://github.com/Wuel1/C-and-.Net/tree/main/crudAngularEWebApi">📂 CRUD API</a>: Este projeto é um CRUD para gestão de pessoas, permitindo criar, visualizar, editar e excluir registros com nome, sobrenome e idade. Desenvolvido com C#, .NET, Entity Framework, SQL Server, Angular e Bootstrap, possui uma API backend documentada com Swagger e uma interface frontend responsiva.</li>
+  <!-- <li><a href="https://github.com/Wuel1/C-and-.Net/tree/main/crudAngularEWebApi">📂 CRUD API</a>: Este projeto é um CRUD para gestão de pessoas, permitindo criar, visualizar, editar e excluir registros com nome, sobrenome e idade. Desenvolvido com C#, .NET, Entity Framework, SQL Server, Angular e Bootstrap, possui uma API backend documentada com Swagger e uma interface frontend responsiva.</li> -->
   <li><a href="https://github.com/C0inTec/mobile">📂 COinTec</a>: Este projeto é um CRUD para gerenciamento de finanças, permitindo adicionar, visualizar, editar e excluir transações de receitas, despesas e investimentos. Desenvolvido com React Native, Flask, e API de classificação financeira utilizando Inteligência Artificial (K-Means e KNN), AsyncStorage e integração com gráficos interativos, oferece uma experiência intuitiva e responsiva para ajudar na tomada de decisões financeiras.</li>
 </ul>
 
-<h2 align="center">📅 Objetivos Futuros</h2>
+<!-- <h2 align="center">📅 Objetivos Futuros</h2>
 <ul>
   <li>💡 Aprofundar conhecimento em <strong>C# e .NET</strong></li>
   <li>💡 Aprofundar conhecimento em <strong>JavascriptT</strong></li>
   <li>💡 Aprofundar conhecimento em <strong>React e React Native</strong></li>
   <li>🌐 Contribuir para projetos open-source</li>
-</ul>
+</ul> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wuel1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="wuel1" />
